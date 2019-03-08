@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 9ca09cf611f402a4a981dc9728725fda
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Cool_Light
+    100004: //RootNode
+    100006: Empty
+    100008: Focus
+    100010: Shadow_Catcher
+    100012: Tail
+    100014: Warm_Light
+    400000: Body
+    400002: Cool_Light
+    400004: //RootNode
+    400006: Empty
+    400008: Focus
+    400010: Shadow_Catcher
+    400012: Tail
+    400014: Warm_Light
+    2100000: Black
+    2100002: Teeth
+    2100004: Tongue
+    2100006: Mouth
+    2100008: Nose
+    2100010: White
+    2100012: Cool_Light
+    2100014: Warm_Light
+    2100016: unnamed
+    2300000: Body
+    2300002: Cool_Light
+    2300004: Shadow_Catcher
+    2300006: Tail
+    2300008: Warm_Light
+    3300000: Body
+    3300002: Cool_Light
+    3300004: Shadow_Catcher
+    3300006: Tail
+    3300008: Warm_Light
+    4300000: Body
+    4300002: Cool_Light
+    4300004: Warm_Light
+    4300006: Shadow_Catcher
+    4300008: Tail
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Day 4(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Day 4(Clone)
+      position: {x: 1.2239904, y: 0.091728926, z: -1.3932611}
+      rotation: {x: -0.64972615, y: -0.2790267, z: -0.27902666, w: 0.6497262}
+      scale: {x: 0.53422254, y: 0.53422254, z: 0.5342225}
+    - name: Cool_Light
+      parentName: Day 4(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Warm_Light
+      parentName: Day 4(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shadow_Catcher
+      parentName: Day 4(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Focus
+      parentName: Day 4(Clone)
+      position: {x: 0.33388776, y: 0.32692316, z: -0.5583051}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Empty
+      parentName: Day 4(Clone)
+      position: {x: 1.7998871, y: 0.38491356, z: -1.9323463}
+      rotation: {x: -0.6634584, y: -0.2445874, z: -0.24458739, w: 0.6634584}
+      scale: {x: 0.51851076, y: 0.51851076, z: 0.51851076}
+    - name: Tail
+      parentName: Empty
+      position: {x: -0.00000011304805, y: 0.00000021373444, z: 0.000000043691003}
+      rotation: {x: 0.0009263468, y: 0.33280966, z: 0.019302573, w: 0.942796}
+      scale: {x: 1.104893, y: 1.1048928, z: 1.104893}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,79 @@
+fileFormatVersion: 2
+guid: 0503668426f432d478899dc247d8e774
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Cat/Cat
+    100002: Cat/Cat/Day_4_obj
+    100004: Cat/Cat/Day_4_obj/Body_Cube
+    100006: Cat/Cat/Day_4_obj/Body_Cube/Body_CubeShape
+    100008: Cat/Cat/Day_4_obj/Cool_Light_Plane
+    100010: Cat/Cat/Day_4_obj/Cool_Light_Plane/Cool_Light_PlaneShape
+    100012: Cat/Cat/Day_4_obj/Shadow_Catcher_Plane
+    100014: Cat/Cat/Day_4_obj/Shadow_Catcher_Plane/Shadow_Catcher_PlaneShape
+    100016: Cat/Cat/Day_4_obj/Tail_Cube
+    100018: Cat/Cat/Day_4_obj/Tail_Cube/Tail_CubeShape
+    100020: Cat/Cat/Day_4_obj/Warm_Light_Plane
+    100022: Cat/Cat/Day_4_obj/Warm_Light_Plane/Warm_Light_PlaneShape
+    400000: Cat/Cat/Transform
+    400002: Cat/Cat/Day_4_obj/Transform
+    400004: Cat/Cat/Day_4_obj/Body_Cube/Transform
+    400006: Cat/Cat/Day_4_obj/Body_Cube/Body_CubeShape/Transform
+    400008: Cat/Cat/Day_4_obj/Cool_Light_Plane/Transform
+    400010: Cat/Cat/Day_4_obj/Cool_Light_Plane/Cool_Light_PlaneShape/Transform
+    400012: Cat/Cat/Day_4_obj/Shadow_Catcher_Plane/Transform
+    400014: Cat/Cat/Day_4_obj/Shadow_Catcher_Plane/Shadow_Catcher_PlaneShape/Transform
+    400016: Cat/Cat/Day_4_obj/Tail_Cube/Transform
+    400018: Cat/Cat/Day_4_obj/Tail_Cube/Tail_CubeShape/Transform
+    400020: Cat/Cat/Day_4_obj/Warm_Light_Plane/Transform
+    400022: Cat/Cat/Day_4_obj/Warm_Light_Plane/Warm_Light_PlaneShape/Transform
+    2100000: Default Material
+    2300000: Cat/Cat/Day_4_obj/Body_Cube/Body_CubeShape/MeshRenderer
+    2300002: Cat/Cat/Day_4_obj/Cool_Light_Plane/Cool_Light_PlaneShape/MeshRenderer
+    2300004: Cat/Cat/Day_4_obj/Shadow_Catcher_Plane/Shadow_Catcher_PlaneShape/MeshRenderer
+    2300006: Cat/Cat/Day_4_obj/Tail_Cube/Tail_CubeShape/MeshRenderer
+    2300008: Cat/Cat/Day_4_obj/Warm_Light_Plane/Warm_Light_PlaneShape/MeshRenderer
+    3300000: Cat/Cat/Day_4_obj/Body_Cube/Body_CubeShape/MeshFilter
+    3300002: Cat/Cat/Day_4_obj/Cool_Light_Plane/Cool_Light_PlaneShape/MeshFilter
+    3300004: Cat/Cat/Day_4_obj/Shadow_Catcher_Plane/Shadow_Catcher_PlaneShape/MeshFilter
+    3300006: Cat/Cat/Day_4_obj/Tail_Cube/Tail_CubeShape/MeshFilter
+    3300008: Cat/Cat/Day_4_obj/Warm_Light_Plane/Warm_Light_PlaneShape/MeshFilter
+    4300000: /Day_4_obj/Shadow_Catcher_Plane/Shadow_Catcher_PlaneShape
+    4300002: /Day_4_obj/Warm_Light_Plane/Warm_Light_PlaneShape
+    4300004: /Day_4_obj/Cool_Light_Plane/Cool_Light_PlaneShape
+    4300006: /Day_4_obj/Tail_Cube/Tail_CubeShape
+    4300008: /Day_4_obj/Body_Cube/Body_CubeShape
+    7400000: Default Animation
+    7400002: Cat_Frames
+    11400000: Cat/Cat/MonoBehaviour-UnityEngine.Formats.Alembic.Importer.AlembicStreamPlayer
+    11400002: Cat_ABCDesc
+    100100000: Cat
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f53f5fc499d31e44b9deee84d28a9ee8, type: 3}
+  streamSettings:
+    normals: 2
+    tangents: 1
+    cameraAspectRatio: 2
+    importVisibility: 1
+    scaleFactor: 1
+    swapHandedness: 1
+    flipFaces: 0
+    turnQuadEdges: 0
+    interpolateSamples: 1
+    importPointPolygon: 1
+    importLinePolygon: 1
+    importTrianglePolygon: 1
+    importXform: 1
+    importCameras: 1
+    importMeshes: 1
+    importPoints: 0
+  abcStartTime: 0
+  abcEndTime: 4
+  startTime: 0
+  endTime: 4
+  importWarning: 
+  varyingTopologyMeshNames: []
+  splittingMeshNames: []
+  firstImport: 0
